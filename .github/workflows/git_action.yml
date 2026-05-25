@@ -2,8 +2,11 @@ name: Run Stock Price Management Script
 
 on:
   workflow_dispatch:   # Manual trigger
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "*/5 4-10 * * 1-5"   # Every 5 mins during 9:30–15:45 IST Mon–Fri
+    - cron: "*/5 3-10 * * 1-5"   # Every 5 mins during 9:30–16:29 IST Mon–Fri
 
 jobs:
   run-script:
