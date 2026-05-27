@@ -1,4 +1,4 @@
-name: Run Stock Price Management Script
+name: Test Run Script
 
 on:
   workflow_dispatch:   # Manual trigger
