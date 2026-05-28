@@ -751,3 +751,65 @@
 2026-05-27 12:15:07,470 - ERROR - Error updating README for NTPC.NS: 'volume'
 2026-05-27 12:15:07,470 - ERROR - Error updating README for ONGC.NS: 'volume'
 2026-05-27 12:15:07,471 - INFO - Cycle complete. README updated.
+2026-05-28 06:54:51,734 - INFO - Starting data fetch cycle...
+2026-05-28 06:54:52,065 - INFO - [RELIANCE_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:52,065 - INFO - Inserted 1500 rows for RELIANCE.NS
+2026-05-28 06:54:52,262 - INFO - [HDFCBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:52,263 - INFO - Inserted 1500 rows for HDFCBANK.NS
+2026-05-28 06:54:52,443 - INFO - [ICICIBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:52,443 - INFO - Inserted 1500 rows for ICICIBANK.NS
+2026-05-28 06:54:52,624 - INFO - [INFY_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:52,624 - INFO - Inserted 1500 rows for INFY.NS
+2026-05-28 06:54:52,811 - INFO - [TCS_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:52,812 - INFO - Inserted 1500 rows for TCS.NS
+2026-05-28 06:54:53,060 - INFO - [ITC_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:53,060 - INFO - Inserted 1500 rows for ITC.NS
+2026-05-28 06:54:53,238 - INFO - [HINDUNILVR_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:53,238 - INFO - Inserted 1500 rows for HINDUNILVR.NS
+2026-05-28 06:54:53,414 - INFO - [SBIN_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:53,414 - INFO - Inserted 1500 rows for SBIN.NS
+2026-05-28 06:54:53,754 - INFO - [BHARTIARTL_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:53,754 - INFO - Inserted 1500 rows for BHARTIARTL.NS
+2026-05-28 06:54:53,909 - INFO - [KOTAKBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:53,910 - INFO - Inserted 1500 rows for KOTAKBANK.NS
+2026-05-28 06:54:54,081 - INFO - [LT_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,081 - INFO - Inserted 1500 rows for LT.NS
+2026-05-28 06:54:54,248 - INFO - [AXISBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,249 - INFO - Inserted 1500 rows for AXISBANK.NS
+2026-05-28 06:54:54,417 - INFO - [BAJFINANCE_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,417 - INFO - Inserted 1500 rows for BAJFINANCE.NS
+2026-05-28 06:54:54,606 - INFO - [ASIANPAINT_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,607 - INFO - Inserted 1500 rows for ASIANPAINT.NS
+2026-05-28 06:54:54,763 - INFO - [MARUTI_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,764 - INFO - Inserted 1500 rows for MARUTI.NS
+2026-05-28 06:54:54,953 - INFO - [SUNPHARMA_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:54,954 - INFO - Inserted 1500 rows for SUNPHARMA.NS
+2026-05-28 06:54:55,131 - INFO - [WIPRO_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:55,131 - INFO - Inserted 1500 rows for WIPRO.NS
+2026-05-28 06:54:55,287 - INFO - [POWERGRID_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:55,287 - INFO - Inserted 1500 rows for POWERGRID.NS
+2026-05-28 06:54:55,464 - INFO - [NTPC_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:55,465 - INFO - Inserted 1500 rows for NTPC.NS
+2026-05-28 06:54:55,634 - INFO - [ONGC_NS] Inserted 1500 rows (duplicates ignored)
+2026-05-28 06:54:55,635 - INFO - Inserted 1500 rows for ONGC.NS
+2026-05-28 06:54:55,636 - ERROR - Error updating README for RELIANCE.NS: 'volume'
+2026-05-28 06:54:55,636 - ERROR - Error updating README for HDFCBANK.NS: 'volume'
+2026-05-28 06:54:55,637 - ERROR - Error updating README for ICICIBANK.NS: 'volume'
+2026-05-28 06:54:55,638 - ERROR - Error updating README for INFY.NS: 'volume'
+2026-05-28 06:54:55,638 - ERROR - Error updating README for TCS.NS: 'volume'
+2026-05-28 06:54:55,639 - ERROR - Error updating README for ITC.NS: 'volume'
+2026-05-28 06:54:55,639 - ERROR - Error updating README for HINDUNILVR.NS: 'volume'
+2026-05-28 06:54:55,640 - ERROR - Error updating README for SBIN.NS: 'volume'
+2026-05-28 06:54:55,640 - ERROR - Error updating README for BHARTIARTL.NS: 'volume'
+2026-05-28 06:54:55,641 - ERROR - Error updating README for KOTAKBANK.NS: 'volume'
+2026-05-28 06:54:55,641 - ERROR - Error updating README for LT.NS: 'volume'
+2026-05-28 06:54:55,642 - ERROR - Error updating README for AXISBANK.NS: 'volume'
+2026-05-28 06:54:55,642 - ERROR - Error updating README for BAJFINANCE.NS: 'volume'
+2026-05-28 06:54:55,643 - ERROR - Error updating README for ASIANPAINT.NS: 'volume'
+2026-05-28 06:54:55,643 - ERROR - Error updating README for MARUTI.NS: 'volume'
+2026-05-28 06:54:55,644 - ERROR - Error updating README for SUNPHARMA.NS: 'volume'
+2026-05-28 06:54:55,644 - ERROR - Error updating README for WIPRO.NS: 'volume'
+2026-05-28 06:54:55,645 - ERROR - Error updating README for POWERGRID.NS: 'volume'
+2026-05-28 06:54:55,645 - ERROR - Error updating README for NTPC.NS: 'volume'
+2026-05-28 06:54:55,646 - ERROR - Error updating README for ONGC.NS: 'volume'
+2026-05-28 06:54:55,646 - INFO - Cycle complete. README updated.
