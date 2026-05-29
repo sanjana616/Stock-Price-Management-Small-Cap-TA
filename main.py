@@ -158,14 +158,17 @@ def update_readme():
             table_name = stock.replace(".", "_")
             try:
                 df = pd.read_sql_query(
-                    f"SELECT datetime, close FROM '{table_name}' ORDER BY datetime DESC LIMIT 1", conn
+                    f"SELECT datetime, close, volume FROM '{table_name}' ORDER BY datetime DESC LIMIT 2", conn
                 )
                 if df.empty:
                     continue
 
-                row = df.iloc[0]
                 f.write(f"## {table_name}\n\n")
-                f.write(f"**Latest:** {row['datetime']} | **Price:** \u20b9{row['close']:.2f}\n\n")
+                f.write('<table>\n')
+                f.write('  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>\n')
+                for _, row in df.iterrows():
+                    f.write(f"  <tr><td>{row['datetime']}</td><td>{row['close']}</td><td>{row['volume']}</td></tr>\n")
+                f.write('</table>\n\n')
             except Exception as e:
                 logger.error(f"Error updating README for {stock}: {e}")
 
