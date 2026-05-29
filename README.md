@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-05-29 15:53:38 IST
+Last updated: 2026-05-29 16:15:09 IST
 
 ## RELIANCE_NS
 
@@ -70,16 +70,16 @@ Last updated: 2026-05-29 15:53:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1829.0</td><td>34144</td></tr>
   <tr><td>2026-05-29 15:28:00</td><td>1835.699951171875</td><td>548948</td></tr>
-  <tr><td>2026-05-29 15:27:00</td><td>1829.699951171875</td><td>904768</td></tr>
 </table>
 
 ## KOTAKBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>384.20001220703125</td><td>131246</td></tr>
   <tr><td>2026-05-29 15:28:00</td><td>384.3999938964844</td><td>947232</td></tr>
-  <tr><td>2026-05-29 15:27:00</td><td>384.45001220703125</td><td>1113034</td></tr>
 </table>
 
 ## LT_NS
@@ -110,8 +110,8 @@ Last updated: 2026-05-29 15:53:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>2671.60009765625</td><td>17709</td></tr>
   <tr><td>2026-05-29 15:28:00</td><td>2682.10009765625</td><td>39253</td></tr>
-  <tr><td>2026-05-29 15:27:00</td><td>2678.10009765625</td><td>62094</td></tr>
 </table>
 
 ## MARUTI_NS
