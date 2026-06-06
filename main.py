@@ -54,7 +54,7 @@ CREATE_SQL = """
 CREATE TABLE IF NOT EXISTS technical_indicators (
     datetime TEXT,
     stock_name TEXT,
-    close REAL,
+    open REAL, high REAL, low REAL, close REAL, volume REAL,
     sma_5 REAL, sma_10 REAL, sma_20 REAL, sma_50 REAL, sma_100 REAL, sma_200 REAL,
     ema_5 REAL, ema_10 REAL, ema_20 REAL, ema_50 REAL, ema_100 REAL, ema_200 REAL,
     wma_10 REAL, wma_20 REAL,
@@ -154,7 +154,11 @@ def build_indicator_df(symbol: str, df: pd.DataFrame) -> pd.DataFrame:
     out = pd.DataFrame(index=df.index)
     out["datetime"]   = df.index.strftime("%Y-%m-%d %H:%M:%S")
     out["stock_name"] = symbol
+    out["open"]       = o.values
+    out["high"]       = h.values
+    out["low"]        = l.values
     out["close"]      = c.values
+    out["volume"]     = v.values
 
     # SMA
     for p in [5, 10, 20, 50, 100, 200]:
@@ -299,17 +303,18 @@ def _table3(lines, rows):
 
 
 # ── README ─────────────────────────────────────────────────────────────────────
+INDEX_DISPLAY = {
+    "^NSEI":     "Nifty 50",
+    "^BSESN":    "Sensex",
+    "^NSEBANK":  "BankNifty",
+    "^NSEMDCP50": "MidcapNifty",
+    "NIFTY_FIN_SERVICE.NS": "FinNifty",
+}
+
+
 def update_readme(all_symbols: list[str]):
     conn = sqlite3.connect(DB_NAME)
     now  = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
-    lines = [
-        "# 📊 Large Cap Technical Indicators\n\n",
-        f"**Last updated:** {now}\n\n",
-        "---\n\n",
-        "## 📋 Summary\n\n",
-        "| Stock | Date | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |\n",
-        "|-------|------|------:|-------:|-------:|-----:|----:|:------:|\n",
-    ]
 
     latest_rows = {}
     for sym in all_symbols:
@@ -323,7 +328,37 @@ def update_readme(all_symbols: list[str]):
         except Exception as e:
             logger.error(f"DB read error {sym}: {e}")
 
-    for sym in all_symbols:
+    index_syms = [s for s in all_symbols if s in INDEX_DISPLAY]
+    stock_syms = [s for s in all_symbols if s not in INDEX_DISPLAY]
+
+    lines = [
+        "# 📊 Large Cap Technical Indicators\n\n",
+        f"**Last updated:** {now}\n\n",
+        "---\n\n",
+        "## 📈 Indexes\n\n",
+        "| Index | Date & Time | Open | High | Low | Close | Volume |\n",
+        "|-------|-------------|-----:|-----:|----:|------:|-------:|\n",
+    ]
+
+    for sym in index_syms:
+        if sym not in latest_rows:
+            continue
+        r = latest_rows[sym]
+        vol = "—" if (r["volume"] is None or (isinstance(r["volume"], float) and np.isnan(r["volume"]))) else f"{int(r['volume']):,}"
+        lines.append(
+            f"| {INDEX_DISPLAY[sym]} | {r['datetime'][:10]} 15:30 "
+            f"| {_fmt(r['open'])} | {_fmt(r['high'])} | {_fmt(r['low'])} "
+            f"| {_fmt(r['close'])} | {vol} |\n"
+        )
+
+    lines += [
+        "\n---\n\n",
+        "## 📋 Summary\n\n",
+        "| Stock | Date | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |\n",
+        "|-------|------|------:|-------:|-------:|-----:|----:|:------:|\n",
+    ]
+
+    for sym in stock_syms:
         if sym not in latest_rows:
             continue
         r    = latest_rows[sym]
@@ -337,7 +372,7 @@ def update_readme(all_symbols: list[str]):
 
     lines.append("\n---\n\n")
 
-    for sym in all_symbols:
+    for sym in stock_syms:
         if sym not in latest_rows:
             continue
         r    = latest_rows[sym]
@@ -346,7 +381,7 @@ def update_readme(all_symbols: list[str]):
 
         lines.append(f"## {_dn(sym)}\n\n")
         lines.append(
-            f"**Date:** `{r['datetime']}` &nbsp;|&nbsp; "
+            f"**Date:** `{r['datetime'][:10]} 15:30` &nbsp;|&nbsp; "
             f"**Close:** `{_fmt(r['close'])}` &nbsp;|&nbsp; "
             f"**Signal:** {icon} **{sig}**\n\n"
         )

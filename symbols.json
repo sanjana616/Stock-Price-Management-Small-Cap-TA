@@ -26,6 +26,6 @@
         "^NSEBANK",
         "^BSESN",
         "^NSEMDCP50",
-        "^NSEIFIN"
+        "NIFTY_FIN_SERVICE.NS"
     ]
 }
