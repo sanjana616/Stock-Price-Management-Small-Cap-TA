@@ -1,4 +1,4 @@
-name: Large Cap Technical Analysis
+name: Mid Cap Technical Analysis
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "*/5 3-10 * * 1-5"   # Every 5 min during NSE market hours (UTC 3:45–10:00, Mon–Fri)
 
 concurrency:
-  group: largecap-ta-update
+  group: midcap-ta-update
   cancel-in-progress: false
 
 permissions:
