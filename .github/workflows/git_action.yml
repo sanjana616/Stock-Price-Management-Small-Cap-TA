@@ -1,13 +1,12 @@
-name: Run Stock Price Management Script
+name: Large Cap Technical Analysis
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 3-10 * * 1-5"   # Every 5 min during NSE market hours (UTC 3:45–10:00, Mon–Fri)
 
 concurrency:
-  group: stock-data-update
+  group: largecap-ta-update
   cancel-in-progress: false
 
 permissions:
@@ -39,15 +38,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add .
-
           if ! git diff --cached --quiet; then
             git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-
             git fetch origin main
             git pull origin main --strategy-option ours
-
             git push origin main
           else
             echo "No changes to commit"

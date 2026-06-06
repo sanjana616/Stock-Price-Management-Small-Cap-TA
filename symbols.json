@@ -20,5 +20,12 @@
         "POWERGRID.NS",
         "NTPC.NS",
         "ONGC.NS"
+    ],
+    "Indexes": [
+        "^NSEI",
+        "^NSEBANK",
+        "^BSESN",
+        "^NSEMDCP50",
+        "^NSEIFIN"
     ]
 }
