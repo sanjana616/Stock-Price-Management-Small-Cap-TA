@@ -34,7 +34,7 @@ from ta.volume import (
 )
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-DB_NAME      = "MidCap_Technical.db"
+DB_NAME      = "SmallCap_Technical.db"
 README_FILE  = "README.md"
 SYMBOLS_FILE = "symbols.json"
 IST          = pytz.timezone("Asia/Kolkata")
@@ -307,7 +307,7 @@ INDEX_DISPLAY = {
     "^NSEI":     "Nifty 50",
     "^BSESN":    "Sensex",
     "^NSEBANK":  "BankNifty",
-    "^NSEMDCP50": "MidcapNifty",
+    "^NSEMDCP50": "SmallcapNifty",
     "NIFTY_FIN_SERVICE.NS": "FinNifty",
 }
 
@@ -342,7 +342,7 @@ def update_readme(all_symbols: list[str]):
     stock_syms = [s for s in all_symbols if s not in INDEX_DISPLAY]
 
     lines = [
-        "# 📊 Mid Cap Technical Indicators\n\n",
+        "# 📊 Small Cap Technical Indicators\n\n",
         f"**Last updated:** {now}\n\n",
         "---\n\n",
         "## 📈 Indexes\n\n",
@@ -504,7 +504,7 @@ def main():
     with open(SYMBOLS_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    all_symbols = data.get("Mid Cap", []) + data.get("Indexes", [])
+    all_symbols = data.get("Small Cap", []) + data.get("Indexes", [])
     init_db()
     logger.info(f"Processing {len(all_symbols)} symbols")
 
