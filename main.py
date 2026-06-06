@@ -316,6 +316,14 @@ def update_readme(all_symbols: list[str]):
     conn = sqlite3.connect(DB_NAME)
     now  = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
+    def _to_ist(dt_str):
+        try:
+            dt = datetime.strptime(dt_str, "%Y-%m-%d %H:%M:%S")
+            dt_utc = pytz.utc.localize(dt)
+            return dt_utc.astimezone(IST).strftime("%Y-%m-%d %H:%M:%S")
+        except Exception:
+            return dt_str
+
     latest_rows = {}
     for sym in all_symbols:
         try:
@@ -324,7 +332,9 @@ def update_readme(all_symbols: list[str]):
                 conn, params=(sym,)
             )
             if not r.empty:
-                latest_rows[sym] = r.iloc[0]
+                row = r.iloc[0].copy()
+                row["datetime"] = _to_ist(row["datetime"])
+                latest_rows[sym] = row
         except Exception as e:
             logger.error(f"DB read error {sym}: {e}")
 
@@ -354,8 +364,8 @@ def update_readme(all_symbols: list[str]):
     lines += [
         "\n---\n\n",
         "## 📋 Summary\n\n",
-        "| Stock | Date | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |\n",
-        "|-------|------|------:|-------:|-------:|-----:|----:|:------:|\n",
+        "| Stock | Date & Time | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |\n",
+        "|-------|-------------|------:|-------:|-------:|-----:|----:|:------:|\n",
     ]
 
     for sym in stock_syms:
@@ -365,7 +375,7 @@ def update_readme(all_symbols: list[str]):
         sig  = r["signal"]
         icon = {"BUY": "🟢 BUY", "SELL": "🔴 SELL", "HOLD": "🟡 HOLD"}.get(sig, sig)
         lines.append(
-            f"| {_dn(sym)} | {r['datetime'][:10]} | {_fmt(r['close'])} "
+            f"| {_dn(sym)} | {r['datetime']} | {_fmt(r['close'])} "
             f"| {_fmt(r['ema_20'])} | {_fmt(r['rsi_14'])} "
             f"| {_fmt(r['macd'], 4)} | {_fmt(r['adx'])} | {icon} |\n"
         )
@@ -381,7 +391,7 @@ def update_readme(all_symbols: list[str]):
 
         lines.append(f"## {_dn(sym)}\n\n")
         lines.append(
-            f"**Date:** `{r['datetime'][:10]} 15:30` &nbsp;|&nbsp; "
+            f"**Date:** `{r['datetime']}` &nbsp;|&nbsp; "
             f"**Close:** `{_fmt(r['close'])}` &nbsp;|&nbsp; "
             f"**Signal:** {icon} **{sig}**\n\n"
         )

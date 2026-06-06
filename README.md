@@ -1,6 +1,6 @@
 # 📊 Mid Cap Technical Indicators
 
-**Last updated:** 2026-06-06 16:23:39 IST
+**Last updated:** 2026-06-06 16:35:27 IST
 
 ---
 
@@ -18,34 +18,34 @@
 
 ## 📋 Summary
 
-| Stock | Date | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |
-|-------|------|------:|-------:|-------:|-----:|----:|:------:|
-| ALKEM_NS | 2026-06-05 | 5251.50 | 5384.92 | 39.59 | -48.2933 | 13.05 | 🟡 HOLD |
-| APLAPOLLO_NS | 2026-06-05 | 1822.60 | 1857.24 | 40.65 | -38.9540 | 20.97 | 🔴 SELL |
-| ASHOKLEY_NS | 2026-06-05 | 145.29 | 152.88 | 36.61 | -4.1411 | 21.44 | 🔴 SELL |
-| AUBANK_NS | 2026-06-05 | 969.40 | 985.26 | 44.30 | -6.1588 | 15.79 | 🟡 HOLD |
-| AUROPHARMA_NS | 2026-06-05 | 1462.30 | 1453.93 | 54.11 | 6.3022 | 20.31 | 🟡 HOLD |
-| BHARATFORG_NS | 2026-06-05 | 1929.80 | 1917.86 | 54.07 | 16.2322 | 11.51 | 🟡 HOLD |
-| BHEL_NS | 2026-06-05 | 386.95 | 397.86 | 48.37 | 11.9408 | 38.80 | 🔴 SELL |
-| BSE_NS | 2026-06-05 | 3880.00 | 4014.30 | 46.47 | 90.0035 | 42.50 | 🔴 SELL |
-| COFORGE_NS | 2026-06-05 | 1435.50 | 1388.81 | 58.26 | 47.8208 | 24.28 | 🟢 BUY |
-| COLPAL_NS | 2026-06-05 | 1999.50 | 2056.50 | 38.67 | -20.1832 | 19.94 | 🟡 HOLD |
-| DABUR_NS | 2026-06-05 | 424.15 | 440.73 | 35.93 | -8.1192 | 17.87 | 🟡 HOLD |
-| DIXON_NS | 2026-06-05 | 11432.00 | 11359.56 | 52.73 | 139.0273 | 12.08 | 🟡 HOLD |
-| FEDERALBNK_NS | 2026-06-05 | 304.15 | 291.82 | 67.89 | 3.2684 | 14.84 | 🟡 HOLD |
-| FORTIS_NS | 2026-06-05 | 968.65 | 947.32 | 59.86 | 4.9328 | 22.08 | 🟡 HOLD |
-| GMRAIRPORT_NS | 2026-06-05 | 102.03 | 98.12 | 61.57 | 1.1254 | 13.65 | 🟡 HOLD |
-| GODREJPROP_NS | 2026-06-05 | 1708.30 | 1740.39 | 44.26 | -11.8981 | 10.83 | 🟡 HOLD |
-| HAVELLS_NS | 2026-06-05 | 1150.50 | 1191.53 | 37.30 | -22.1470 | 20.54 | 🔴 SELL |
-| HEROMOTOCO_NS | 2026-06-05 | 4835.00 | 4969.79 | 39.10 | -76.3450 | 17.64 | 🟡 HOLD |
-| HINDPETRO_NS | 2026-06-05 | 385.05 | 386.23 | 50.21 | 3.0519 | 14.24 | 🟡 HOLD |
-| ICICIBANK_NS | 2026-06-05 | 1262.10 | 1258.71 | 49.71 | -7.9764 | 12.40 | 🟡 HOLD |
+| Stock | Date & Time | Close | EMA 20 | RSI 14 | MACD | ADX | Signal |
+|-------|-------------|------:|-------:|-------:|-----:|----:|:------:|
+| ALKEM_NS | 2026-06-05 11:00:00 | 5251.50 | 5384.92 | 39.59 | -48.2933 | 13.05 | 🟡 HOLD |
+| APLAPOLLO_NS | 2026-06-05 11:00:00 | 1822.60 | 1857.24 | 40.65 | -38.9540 | 20.97 | 🔴 SELL |
+| ASHOKLEY_NS | 2026-06-05 11:00:00 | 145.29 | 152.88 | 36.61 | -4.1411 | 21.44 | 🔴 SELL |
+| AUBANK_NS | 2026-06-05 11:00:00 | 969.40 | 985.26 | 44.30 | -6.1588 | 15.79 | 🟡 HOLD |
+| AUROPHARMA_NS | 2026-06-05 11:00:00 | 1462.30 | 1453.93 | 54.11 | 6.3022 | 20.31 | 🟡 HOLD |
+| BHARATFORG_NS | 2026-06-05 11:00:00 | 1929.80 | 1917.86 | 54.07 | 16.2322 | 11.51 | 🟡 HOLD |
+| BHEL_NS | 2026-06-05 11:00:00 | 386.95 | 397.86 | 48.37 | 11.9408 | 38.80 | 🔴 SELL |
+| BSE_NS | 2026-06-05 11:00:00 | 3880.00 | 4014.30 | 46.47 | 90.0035 | 42.50 | 🔴 SELL |
+| COFORGE_NS | 2026-06-05 11:00:00 | 1435.50 | 1388.81 | 58.26 | 47.8208 | 24.28 | 🟢 BUY |
+| COLPAL_NS | 2026-06-05 11:00:00 | 1999.50 | 2056.50 | 38.67 | -20.1832 | 19.94 | 🟡 HOLD |
+| DABUR_NS | 2026-06-05 11:00:00 | 424.15 | 440.73 | 35.93 | -8.1192 | 17.87 | 🟡 HOLD |
+| DIXON_NS | 2026-06-05 11:00:00 | 11432.00 | 11359.56 | 52.73 | 139.0273 | 12.08 | 🟡 HOLD |
+| FEDERALBNK_NS | 2026-06-05 11:00:00 | 304.15 | 291.82 | 67.89 | 3.2684 | 14.84 | 🟡 HOLD |
+| FORTIS_NS | 2026-06-05 11:00:00 | 968.65 | 947.32 | 59.86 | 4.9328 | 22.08 | 🟡 HOLD |
+| GMRAIRPORT_NS | 2026-06-05 11:00:00 | 102.03 | 98.12 | 61.57 | 1.1254 | 13.65 | 🟡 HOLD |
+| GODREJPROP_NS | 2026-06-05 11:00:00 | 1708.30 | 1740.39 | 44.26 | -11.8981 | 10.83 | 🟡 HOLD |
+| HAVELLS_NS | 2026-06-05 11:00:00 | 1150.50 | 1191.53 | 37.30 | -22.1470 | 20.54 | 🔴 SELL |
+| HEROMOTOCO_NS | 2026-06-05 11:00:00 | 4835.00 | 4969.79 | 39.10 | -76.3450 | 17.64 | 🟡 HOLD |
+| HINDPETRO_NS | 2026-06-05 11:00:00 | 385.05 | 386.23 | 50.21 | 3.0519 | 14.24 | 🟡 HOLD |
+| ICICIBANK_NS | 2026-06-05 11:00:00 | 1262.10 | 1258.71 | 49.71 | -7.9764 | 12.40 | 🟡 HOLD |
 
 ---
 
 ## ALKEM_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `5251.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `5251.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -102,7 +102,7 @@
 
 ## APLAPOLLO_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1822.60` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1822.60` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
@@ -159,7 +159,7 @@
 
 ## ASHOKLEY_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `145.29` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `145.29` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
@@ -204,7 +204,7 @@
 |-----------|------:|-----------|------:|-----------|------:|
 | OBV | 350780878 | CMF | -0.1397 | Acc/Dist | 145318403 |
 | MFI | 33.76 | Force Index | -60891110 | EOM | -6.036579 |
-| VPT | 22362208 | NVI | 905.27 | VWAP | 151.74 |
+| VPT | 22362206 | NVI | 905.27 | VWAP | 151.74 |
 
 ### 🕯️ Price Action
 
@@ -216,7 +216,7 @@
 
 ## AUBANK_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `969.40` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `969.40` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -273,7 +273,7 @@
 
 ## AUROPHARMA_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1462.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1462.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -330,7 +330,7 @@
 
 ## BHARATFORG_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1929.80` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1929.80` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -387,7 +387,7 @@
 
 ## BHEL_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `386.95` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `386.95` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
@@ -444,7 +444,7 @@
 
 ## BSE_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `3880.00` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `3880.00` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
@@ -501,7 +501,7 @@
 
 ## COFORGE_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1435.50` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1435.50` &nbsp;|&nbsp; **Signal:** 🟢 **BUY**
 
 ### 📈 Trend Indicators
 
@@ -546,7 +546,7 @@
 |-----------|------:|-----------|------:|-----------|------:|
 | OBV | 38781252 | CMF | -0.1328 | Acc/Dist | -31653185 |
 | MFI | 74.72 | Force Index | 63360118 | EOM | 61525.251755 |
-| VPT | 1128634 | NVI | 734.80 | VWAP | 1440.65 |
+| VPT | 1128633 | NVI | 734.80 | VWAP | 1440.65 |
 
 ### 🕯️ Price Action
 
@@ -558,7 +558,7 @@
 
 ## COLPAL_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1999.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1999.50` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -615,7 +615,7 @@
 
 ## DABUR_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `424.15` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `424.15` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -672,7 +672,7 @@
 
 ## DIXON_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `11432.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `11432.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -729,7 +729,7 @@
 
 ## FEDERALBNK_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `304.15` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `304.15` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -786,7 +786,7 @@
 
 ## FORTIS_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `968.65` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `968.65` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -843,7 +843,7 @@
 
 ## GMRAIRPORT_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `102.03` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `102.03` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -900,7 +900,7 @@
 
 ## GODREJPROP_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1708.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1708.30` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -957,7 +957,7 @@
 
 ## HAVELLS_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1150.50` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1150.50` &nbsp;|&nbsp; **Signal:** 🔴 **SELL**
 
 ### 📈 Trend Indicators
 
@@ -1014,7 +1014,7 @@
 
 ## HEROMOTOCO_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `4835.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `4835.00` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -1071,7 +1071,7 @@
 
 ## HINDPETRO_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `385.05` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `385.05` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
@@ -1116,7 +1116,7 @@
 |-----------|------:|-----------|------:|-----------|------:|
 | OBV | 31844838 | CMF | 0.0428 | Acc/Dist | 2590145 |
 | MFI | 59.35 | Force Index | -442658 | EOM | 30.212202 |
-| VPT | 2406908 | NVI | 839.95 | VWAP | 390.40 |
+| VPT | 2406907 | NVI | 839.95 | VWAP | 390.40 |
 
 ### 🕯️ Price Action
 
@@ -1128,7 +1128,7 @@
 
 ## ICICIBANK_NS
 
-**Date:** `2026-06-05 15:30` &nbsp;|&nbsp; **Close:** `1262.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
+**Date:** `2026-06-05 11:00:00` &nbsp;|&nbsp; **Close:** `1262.10` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
 
 ### 📈 Trend Indicators
 
