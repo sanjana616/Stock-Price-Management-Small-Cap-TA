@@ -7,7 +7,10 @@ from datetime import datetime
 import pytz
 import yfinance as yf
 import pandas as pd
-
+import pandas as pd
+from ta.momentum import RSIIndicator
+from ta.trend import EMAIndicator, MACD
+from ta.volume import VolumeWeightedAveragePrice
 
 # ----------------------------
 # CONFIGURATIONS
