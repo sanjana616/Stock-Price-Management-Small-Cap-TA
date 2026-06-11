@@ -91,6 +91,8 @@ def init_db():
         cols = [r[1] for r in conn.execute("PRAGMA table_info(technical_indicators)").fetchall()]
         if "updated_at" not in cols:
             conn.execute("ALTER TABLE technical_indicators ADD COLUMN updated_at TEXT")
+        # Remove stale daily candles (stored as HH:MM:SS = 00:00:00 from 1d interval)
+        conn.execute("DELETE FROM technical_indicators WHERE datetime LIKE '%00:00:00'")
         conn.commit()
 
 
