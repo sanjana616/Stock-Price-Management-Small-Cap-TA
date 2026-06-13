@@ -112,6 +112,9 @@ def upsert_df(df_rows: pd.DataFrame):
 
 
 # ── Fetch ──────────────────────────────────────────────────────────────────────
+MARKET_OPEN  = datetime.strptime("09:15", "%H:%M").time()
+MARKET_CLOSE = datetime.strptime("15:30", "%H:%M").time()
+
 def fetch(symbol: str) -> pd.DataFrame | None:
     try:
         raw = yf.download(symbol, interval="1m", period="5d", progress=False, auto_adjust=True)
@@ -127,7 +130,8 @@ def fetch(symbol: str) -> pd.DataFrame | None:
             raw.index = raw.index.tz_localize("UTC")
         raw.index = raw.index.tz_convert(IST)
         df = raw[["open", "high", "low", "close", "volume"]].copy()
-        df = df.iloc[:-1]
+        df = df[df.index.day_of_week < 5]  # Mon–Fri only
+        df = df.between_time("09:15", "15:30")
         df.dropna(subset=["open", "high", "low", "close"], inplace=True)
         return df
     except Exception as e:
@@ -312,11 +316,10 @@ def _table3(lines, rows):
 
 # ── README ─────────────────────────────────────────────────────────────────────
 INDEX_DISPLAY = {
-    "^NSEI":     "Nifty 50",
-    "^BSESN":    "Sensex",
-    "^NSEBANK":  "BankNifty",
+    "^NSEI":      "Nifty 50",
+    "^BSESN":     "Sensex",
+    "^NSEBANK":   "BankNifty",
     "^NSEMDCP50": "SmallcapNifty",
-    "NIFTY_FIN_SERVICE.NS": "FinNifty",
 }
 
 
