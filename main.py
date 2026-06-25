@@ -91,8 +91,10 @@ def init_db():
         cols = [r[1] for r in conn.execute("PRAGMA table_info(technical_indicators)").fetchall()]
         if "updated_at" not in cols:
             conn.execute("ALTER TABLE technical_indicators ADD COLUMN updated_at TEXT")
-        # Remove stale daily candles (stored as HH:MM:SS = 00:00:00 from 1d interval)
-        conn.execute("DELETE FROM technical_indicators WHERE datetime LIKE '%00:00:00'")
+        # Keep only current week data (Mon–Fri of this week)
+        today = datetime.now(IST)
+        week_start = (today - pd.Timedelta(days=today.weekday())).strftime("%Y-%m-%d")
+        conn.execute("DELETE FROM technical_indicators WHERE datetime < ?", (week_start,))
         conn.commit()
 
 
@@ -128,10 +130,10 @@ def fetch(symbol: str) -> pd.DataFrame | None:
         raw.index = pd.to_datetime(raw.index)
         if raw.index.tz is None:
             raw.index = raw.index.tz_localize("UTC")
-        raw.index = raw.index.tz_convert(IST)
+        raw.index = raw.index.tz_convert(IST)  # convert to IST first
         df = raw[["open", "high", "low", "close", "volume"]].copy()
-        df = df[df.index.day_of_week < 5]  # Mon–Fri only
-        df = df.between_time("09:15", "15:30")
+        df = df[df.index.dayofweek < 5]          # Mon–Fri only
+        df = df.between_time("09:15", "15:30")   # NSE market hours in IST
         df.dropna(subset=["open", "high", "low", "close"], inplace=True)
         return df
     except Exception as e:
