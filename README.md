@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-06-30 20:46:21 IST
+**Last updated:** 2026-06-30 21:01:24 IST
 
 ---
 
@@ -87,9 +87,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 97916 | CMF | 0.2866 | Acc/Dist | 18908 |
+| OBV | 97916 | CMF | 0.2866 | Acc/Dist | 18914 |
 | MFI | 52.76 | Force Index | -448 | EOM | -2136037.319521 |
-| VPT | -200 | NVI | 1011.84 | VWAP | 1645.62 |
+| VPT | -200 | NVI | 1011.96 | VWAP | 1645.62 |
 
 ### 🕯️ Price Action
 
@@ -144,9 +144,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 74240 | CMF | 0.2737 | Acc/Dist | 99995 |
+| OBV | 74240 | CMF | 0.2737 | Acc/Dist | 99928 |
 | MFI | 50.71 | Force Index | 2027 | EOM | -74539.113467 |
-| VPT | 391 | NVI | 993.93 | VWAP | 2165.57 |
+| VPT | 392 | NVI | 993.69 | VWAP | 2165.57 |
 
 ### 🕯️ Price Action
 
@@ -260,7 +260,7 @@
 |-----------|------:|-----------|------:|-----------|------:|
 | OBV | 417420 | CMF | 0.2598 | Acc/Dist | 77472 |
 | MFI | 70.82 | Force Index | 4375 | EOM | -72143.336275 |
-| VPT | -8 | NVI | 1012.16 | VWAP | 1041.15 |
+| VPT | -7 | NVI | 1012.16 | VWAP | 1041.15 |
 
 ### 🕯️ Price Action
 
@@ -486,9 +486,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 9318255 | CMF | -0.1950 | Acc/Dist | -1856510 |
+| OBV | 9318255 | CMF | -0.1950 | Acc/Dist | -1859356 |
 | MFI | 48.98 | Force Index | 622 | EOM | 1254.610732 |
-| VPT | 22936 | NVI | 1010.47 | VWAP | 677.53 |
+| VPT | 22933 | NVI | 1011.01 | VWAP | 677.53 |
 
 ### 🕯️ Price Action
 
@@ -657,7 +657,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 39939 | CMF | -0.0906 | Acc/Dist | 14645 |
+| OBV | 39939 | CMF | -0.0906 | Acc/Dist | 14313 |
 | MFI | 46.11 | Force Index | 381 | EOM | 4793572.985756 |
 | VPT | 75 | NVI | 1036.82 | VWAP | 1650.51 |
 
