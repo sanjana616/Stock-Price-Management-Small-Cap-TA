@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-07-08 22:32:13 IST
+**Last updated:** 2026-07-08 22:46:18 IST
 
 ---
 
@@ -19,7 +19,6 @@
 
 | Symbol | Datetime | Close | Volume | RSI | EMA20 | MACD | VWAP | Signal |
 |--------|----------|------:|-------:|----:|------:|-----:|-----:|:------:|
-| LALPATHLAB_NS | 2026-07-08 15:29:00 | 1656.80 | 389 | 58.98 | 1654.20 | 1.5042 | 1654.70 | 🟡 HOLD |
 | PIRAMALFIN_NS | 2026-07-08 15:29:00 | 2120.00 | 483 | 40.82 | 2124.60 | 0.3253 | 2126.11 | 🟡 HOLD |
 | NBCC_NS | 2026-07-08 15:29:00 | 94.80 | 68,001 | 48.86 | 94.83 | 0.0276 | 94.88 | 🔴 SELL |
 | PNBHOUSING_NS | 2026-07-08 15:29:00 | 1074.80 | 2,243 | 56.77 | 1073.68 | 1.5611 | 1074.93 | 🟡 HOLD |
@@ -39,63 +38,6 @@
 | TATATECH_NS | 2026-07-08 15:29:00 | 703.00 | 2,959 | 47.40 | 703.43 | 0.2528 | 703.90 | 🟡 HOLD |
 | SONACOMS_NS | 2026-07-08 15:29:00 | 662.05 | 6,618 | 51.53 | 661.88 | 0.0618 | 662.37 | 🟡 HOLD |
 | AMBER_NS | 2026-07-08 15:29:00 | 7410.00 | 482 | 40.56 | 7425.49 | 0.7534 | 7432.88 | 🟡 HOLD |
-
----
-
-## LALPATHLAB_NS
-
-**Date:** `2026-07-08 15:29:00` &nbsp;|&nbsp; **Close:** `1656.80` &nbsp;|&nbsp; **Signal:** 🟡 **HOLD**
-
-### 📈 Trend Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| SMA 5 | 1655.48 | SMA 10 | 1654.92 | SMA 20 | 1654.83 |
-| SMA 50 | 1649.12 | SMA 100 | 1652.58 | SMA 200 | 1664.89 |
-| EMA 5 | 1655.68 | EMA 10 | 1655.21 | EMA 20 | 1654.20 |
-| EMA 50 | 1652.40 | EMA 100 | 1654.93 | EMA 200 | 1661.40 |
-| WMA 10 | 1655.32 | WMA 20 | 1655.03 | MACD | 1.5042 |
-| MACD Signal | 1.6729 | MACD Diff | -0.1687 | ADX | 19.99 |
-| ADX+ | 21.46 | ADX- | 20.15 | Aroon Up | 88.00 |
-| Aroon Down | 96.00 | Aroon Ind | -8.00 | CCI | 86.28 |
-| DPO | -1.24 | Mass Index | 24.47 | Ichimoku A | 1654.85 |
-| Ichimoku B | 1647.60 | Ichimoku Base | 1654.85 | Ichimoku Conv | 1654.85 |
-| PSAR | 1658.45 | STC | 56.25 | TRIX | 0.0164 |
-| Vortex + | 0.99 | Vortex - | 0.96 |  |  |
-
-### 🌡️ Volatility Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 1657.01 | KC Middle | 1654.83 | KC Lower | 1652.66 |
-| DC Upper | 1658.60 | DC Middle | 1654.85 | DC Lower | 1651.10 |
-| ATR | 2.53 | BB Upper | 1657.51 | BB Middle | 1654.83 |
-| BB Lower | 1652.16 | BB %B | 0.8673 | BB Width | 0.3233 |
-| Ulcer Index | 0.13 |  |  |  |  |
-
-### ⚡ Momentum Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 60.43 | RSI 14 | 58.98 | RSI 21 | 57.30 |
-| Stoch %K | 76.00 | Stoch %D | 56.50 | ROC | 0.1269 |
-| Williams %R | -24.00 | Awe. Osc. | 3.0624 | KAMA | 1653.93 |
-| PPO | 0.0910 | PVO | 1.0726 | TSI | 15.5995 |
-| Ult. Osc. | 53.08 |  |  |  |  |
-
-### 📦 Volume Indicators
-
-| Indicator | Value | Indicator | Value | Indicator | Value |
-|-----------|------:|-----------|------:|-----------|------:|
-| OBV | 486542 | CMF | -0.1197 | Acc/Dist | -99910 |
-| MFI | 37.68 | Force Index | 137 | EOM | 835506.958949 |
-| VPT | 310 | NVI | 1031.36 | VWAP | 1654.70 |
-
-### 🕯️ Price Action
-
-| Price Chg % |
-|------------:|
-| 0.0060 |
 
 ---
 
