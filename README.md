@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-07-09 20:01:46 IST
+**Last updated:** 2026-07-09 20:16:19 IST
 
 ---
 
@@ -201,9 +201,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -4892085 | CMF | 0.2992 | Acc/Dist | -2528718 |
+| OBV | -4865271 | CMF | 0.2992 | Acc/Dist | -2518305 |
 | MFI | 69.66 | Force Index | 980 | EOM | 3.095385 |
-| VPT | -8609 | NVI | 1037.40 | VWAP | 97.83 |
+| VPT | -8590 | NVI | 1035.91 | VWAP | 97.83 |
 
 ### 🕯️ Price Action
 
@@ -315,7 +315,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -22967 | CMF | 0.3321 | Acc/Dist | -3722 |
+| OBV | -23077 | CMF | 0.3321 | Acc/Dist | -3777 |
 | MFI | 59.50 | Force Index | -575 | EOM | 228426395.939086 |
 | VPT | -19 | NVI | 1047.92 | VWAP | 19535.22 |
 
@@ -429,9 +429,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 77233 | CMF | 0.0290 | Acc/Dist | 57880 |
+| OBV | 78533 | CMF | 0.0290 | Acc/Dist | 58826 |
 | MFI | 28.23 | Force Index | -384 | EOM | 4685146.459271 |
-| VPT | -898 | NVI | 993.18 | VWAP | 1230.70 |
+| VPT | -898 | NVI | 992.12 | VWAP | 1230.70 |
 
 ### 🕯️ Price Action
 
