@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-07-11 08:46:11 IST
+**Last updated:** 2026-07-11 09:01:46 IST
 
 ---
 
@@ -87,9 +87,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 115212 | CMF | 0.1459 | Acc/Dist | 140318 |
+| OBV | 114868 | CMF | 0.1459 | Acc/Dist | 140046 |
 | MFI | 59.00 | Force Index | -347 | EOM | -215024.289532 |
-| VPT | 131 | NVI | 1063.61 | VWAP | 1691.75 |
+| VPT | 131 | NVI | 1063.99 | VWAP | 1691.75 |
 
 ### 🕯️ Price Action
 
@@ -144,9 +144,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -23288 | CMF | -0.2573 | Acc/Dist | -17113 |
+| OBV | -22588 | CMF | -0.2573 | Acc/Dist | -15727 |
 | MFI | 45.90 | Force Index | -590 | EOM | 1553778.286124 |
-| VPT | 301 | NVI | 1009.97 | VWAP | 2165.85 |
+| VPT | 297 | NVI | 1010.72 | VWAP | 2165.85 |
 
 ### 🕯️ Price Action
 
@@ -201,9 +201,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -2926851 | CMF | 0.4597 | Acc/Dist | -263752 |
+| OBV | -2953665 | CMF | 0.4597 | Acc/Dist | -274165 |
 | MFI | 69.97 | Force Index | 2442 | EOM | -23.997669 |
-| VPT | -4609 | NVI | 1018.07 | VWAP | 100.15 |
+| VPT | -4628 | NVI | 1019.54 | VWAP | 100.15 |
 
 ### 🕯️ Price Action
 
@@ -258,9 +258,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 791559 | CMF | -0.0244 | Acc/Dist | 914939 |
+| OBV | 791691 | CMF | -0.0244 | Acc/Dist | 914917 |
 | MFI | 56.89 | Force Index | -86 | EOM | 21903.314323 |
-| VPT | 868 | NVI | 1007.65 | VWAP | 1110.39 |
+| VPT | 868 | NVI | 1007.74 | VWAP | 1110.39 |
 
 ### 🕯️ Price Action
 
@@ -315,7 +315,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 14822 | CMF | 0.1517 | Acc/Dist | 17455 |
+| OBV | 14932 | CMF | 0.1517 | Acc/Dist | 17510 |
 | MFI | 40.16 | Force Index | 1137 | EOM | 0.000000 |
 | VPT | -4 | NVI | 1052.95 | VWAP | 19504.57 |
 
@@ -372,9 +372,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -966993 | CMF | 0.1328 | Acc/Dist | -349418 |
+| OBV | -966887 | CMF | 0.1328 | Acc/Dist | -349325 |
 | MFI | 26.02 | Force Index | 1107 | EOM | -81940.610966 |
-| VPT | -535 | NVI | 943.21 | VWAP | 3339.08 |
+| VPT | -535 | NVI | 943.41 | VWAP | 3339.08 |
 
 ### 🕯️ Price Action
 
@@ -429,9 +429,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 261852 | CMF | 0.1569 | Acc/Dist | 175515 |
+| OBV | 260552 | CMF | 0.1569 | Acc/Dist | 174568 |
 | MFI | 66.19 | Force Index | 5134 | EOM | 18787.146103 |
-| VPT | -744 | NVI | 1025.66 | VWAP | 1265.06 |
+| VPT | -745 | NVI | 1026.75 | VWAP | 1265.06 |
 
 ### 🕯️ Price Action
 
@@ -488,7 +488,7 @@
 |-----------|------:|-----------|------:|-----------|------:|
 | OBV | -2377179 | CMF | -0.0078 | Acc/Dist | -2238561 |
 | MFI | 42.67 | Force Index | -404 | EOM | 69.662786 |
-| VPT | -20245 | NVI | 1029.02 | VWAP | 660.45 |
+| VPT | -20244 | NVI | 1029.02 | VWAP | 660.45 |
 
 ### 🕯️ Price Action
 
@@ -543,9 +543,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 255299 | CMF | 0.5292 | Acc/Dist | -337194 |
+| OBV | 256641 | CMF | 0.5292 | Acc/Dist | -338742 |
 | MFI | 39.17 | Force Index | -37 | EOM | -5663871.765137 |
-| VPT | 7 | NVI | 957.15 | VWAP | 2478.86 |
+| VPT | 6 | NVI | 957.56 | VWAP | 2478.86 |
 
 ### 🕯️ Price Action
 
@@ -600,9 +600,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 538937 | CMF | 0.3726 | Acc/Dist | 124106 |
+| OBV | 538937 | CMF | 0.3726 | Acc/Dist | 119608 |
 | MFI | 48.86 | Force Index | 1332 | EOM | -205925.936666 |
-| VPT | 2494 | NVI | 964.76 | VWAP | 984.46 |
+| VPT | 2491 | NVI | 966.05 | VWAP | 984.46 |
 
 ### 🕯️ Price Action
 
@@ -657,9 +657,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 231570 | CMF | 0.1546 | Acc/Dist | 77329 |
+| OBV | 230912 | CMF | 0.1546 | Acc/Dist | 76914 |
 | MFI | 26.24 | Force Index | -7996 | EOM | -614727.220752 |
-| VPT | 568 | NVI | 994.24 | VWAP | 1651.99 |
+| VPT | 568 | NVI | 994.42 | VWAP | 1651.99 |
 
 ### 🕯️ Price Action
 
@@ -714,9 +714,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 17980 | CMF | -0.0614 | Acc/Dist | 12077 |
+| OBV | 17952 | CMF | -0.0614 | Acc/Dist | 12016 |
 | MFI | 49.11 | Force Index | -337 | EOM | 32912.821550 |
-| VPT | 61 | NVI | 971.20 | VWAP | 1478.99 |
+| VPT | 61 | NVI | 970.47 | VWAP | 1478.99 |
 
 ### 🕯️ Price Action
 
@@ -771,9 +771,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1184450 | CMF | 0.0954 | Acc/Dist | -567447 |
+| OBV | 1184242 | CMF | 0.0954 | Acc/Dist | -566208 |
 | MFI | 64.41 | Force Index | 101 | EOM | 2753.014541 |
-| VPT | 1854 | NVI | 974.98 | VWAP | 477.04 |
+| VPT | 1850 | NVI | 974.98 | VWAP | 477.04 |
 
 ### 🕯️ Price Action
 
@@ -828,9 +828,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 5235176 | CMF | -0.0161 | Acc/Dist | -518527 |
+| OBV | 5247980 | CMF | -0.0161 | Acc/Dist | -506424 |
 | MFI | 35.40 | Force Index | -1617 | EOM | -858.830852 |
-| VPT | 9348 | NVI | 925.91 | VWAP | 345.69 |
+| VPT | 9330 | NVI | 927.00 | VWAP | 345.69 |
 
 ### 🕯️ Price Action
 
@@ -885,9 +885,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 481024 | CMF | -0.7304 | Acc/Dist | -1001501 |
+| OBV | 479576 | CMF | -0.7304 | Acc/Dist | -1002225 |
 | MFI | 25.26 | Force Index | -4786 | EOM | 870.127172 |
-| VPT | -376 | NVI | 987.08 | VWAP | 261.54 |
+| VPT | -375 | NVI | 986.89 | VWAP | 261.54 |
 
 ### 🕯️ Price Action
 
@@ -942,9 +942,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 459864 | CMF | 0.2741 | Acc/Dist | 389033 |
+| OBV | 459830 | CMF | 0.2741 | Acc/Dist | 389150 |
 | MFI | 67.58 | Force Index | 7680 | EOM | -50238.736582 |
-| VPT | 1249 | NVI | 977.46 | VWAP | 810.22 |
+| VPT | 1249 | NVI | 977.76 | VWAP | 810.22 |
 
 ### 🕯️ Price Action
 
@@ -999,9 +999,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 298582 | CMF | 0.5357 | Acc/Dist | -31697 |
+| OBV | 303372 | CMF | 0.5357 | Acc/Dist | -31973 |
 | MFI | 59.95 | Force Index | 36 | EOM | -478.261968 |
-| VPT | 1147 | NVI | 994.13 | VWAP | 451.90 |
+| VPT | 1148 | NVI | 993.55 | VWAP | 451.90 |
 
 ### 🕯️ Price Action
 
@@ -1056,7 +1056,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 275522 | CMF | 0.2807 | Acc/Dist | 190433 |
+| OBV | 275426 | CMF | 0.2807 | Acc/Dist | 190271 |
 | MFI | 65.45 | Force Index | 1241 | EOM | -193180.298902 |
 | VPT | 1092 | NVI | 968.43 | VWAP | 718.51 |
 
@@ -1113,9 +1113,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -44721 | CMF | 0.1830 | Acc/Dist | -44123 |
+| OBV | -50787 | CMF | 0.1830 | Acc/Dist | -41282 |
 | MFI | 49.88 | Force Index | -14 | EOM | -12893.406949 |
-| VPT | -1173 | NVI | 980.65 | VWAP | 669.17 |
+| VPT | -1174 | NVI | 981.38 | VWAP | 669.17 |
 
 ### 🕯️ Price Action
 
@@ -1170,9 +1170,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 52381 | CMF | -0.4014 | Acc/Dist | 43343 |
+| OBV | 52369 | CMF | -0.4014 | Acc/Dist | 44108 |
 | MFI | 50.07 | Force Index | -1313 | EOM | -19852941.176471 |
-| VPT | 192 | NVI | 1048.45 | VWAP | 7770.94 |
+| VPT | 192 | NVI | 1048.31 | VWAP | 7770.94 |
 
 ### 🕯️ Price Action
 
