@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-07-27 04:46:07 IST
+**Last updated:** 2026-07-27 05:01:12 IST
 
 ---
 
@@ -37,7 +37,7 @@
 | ASTERDM_NS | 2026-07-24 15:29:00 | 789.90 | 803 | 74.56 | 786.19 | 0.7914 | 785.61 | 🟢 BUY |
 | COHANCE_NS | 2026-07-24 15:29:00 | 418.80 | 6,106 | 69.91 | 417.55 | 0.7482 | 417.95 | 🟢 BUY |
 | TATATECH_NS | 2026-07-24 15:29:00 | 713.75 | 3,608 | 65.49 | 711.16 | 0.1181 | 711.22 | 🟡 HOLD |
-| SONACOMS_NS | 2026-07-24 15:29:00 | 718.50 | 11,067 | 51.55 | 718.11 | -0.3697 | 717.81 | 🟢 BUY |
+| SONACOMS_NS | 2026-07-24 15:29:00 | 718.50 | 11,067 | 51.55 | 718.11 | -0.3697 | 717.82 | 🟢 BUY |
 | AMBER_NS | 2026-07-24 15:29:00 | 7259.00 | 1,363 | 50.09 | 7259.26 | -0.4535 | 7260.95 | 🟡 HOLD |
 
 ---
@@ -1081,21 +1081,21 @@
 | EMA 5 | 718.00 | EMA 10 | 717.91 | EMA 20 | 718.11 |
 | EMA 50 | 719.05 | EMA 100 | 720.47 | EMA 200 | 722.33 |
 | WMA 10 | 717.85 | WMA 20 | 717.88 | MACD | -0.3697 |
-| MACD Signal | -0.5091 | MACD Diff | 0.1394 | ADX | 26.96 |
-| ADX+ | 18.02 | ADX- | 21.54 | Aroon Up | 0.00 |
-| Aroon Down | 96.00 | Aroon Ind | -96.00 | CCI | 96.83 |
-| DPO | 0.55 | Mass Index | 25.01 | Ichimoku A | 717.66 |
-| Ichimoku B | 720.12 | Ichimoku Base | 717.95 | Ichimoku Conv | 717.38 |
+| MACD Signal | -0.5091 | MACD Diff | 0.1394 | ADX | 27.31 |
+| ADX+ | 24.36 | ADX- | 18.47 | Aroon Up | 0.00 |
+| Aroon Down | 96.00 | Aroon Ind | -96.00 | CCI | 123.17 |
+| DPO | 0.55 | Mass Index | 25.35 | Ichimoku A | 717.94 |
+| Ichimoku B | 720.12 | Ichimoku Base | 717.95 | Ichimoku Conv | 717.92 |
 | PSAR | 716.10 | STC | 88.03 | TRIX | -0.0108 |
-| Vortex + | 0.95 | Vortex - | 0.98 |  |  |
+| Vortex + | 0.90 | Vortex - | 0.90 |  |  |
 
 ### 🌡️ Volatility Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| KC Upper | 718.56 | KC Middle | 717.80 | KC Lower | 717.03 |
-| DC Upper | 718.65 | DC Middle | 717.38 | DC Lower | 716.10 |
-| ATR | 0.86 | BB Upper | 718.80 | BB Middle | 717.85 |
+| KC Upper | 718.67 | KC Middle | 717.81 | KC Lower | 716.94 |
+| DC Upper | 719.75 | DC Middle | 717.92 | DC Lower | 716.10 |
+| ATR | 1.00 | BB Upper | 718.80 | BB Middle | 717.85 |
 | BB Lower | 716.89 | BB %B | 0.8417 | BB Width | 0.2660 |
 | Ulcer Index | 0.16 |  |  |  |  |
 
@@ -1104,18 +1104,18 @@
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
 | RSI 7 | 60.98 | RSI 14 | 51.55 | RSI 21 | 48.37 |
-| Stoch %K | 94.12 | Stoch %D | 67.13 | ROC | 0.1045 |
-| Williams %R | -5.88 | Awe. Osc. | -1.1597 | KAMA | 718.06 |
+| Stoch %K | 65.75 | Stoch %D | 57.68 | ROC | 0.1045 |
+| Williams %R | -34.25 | Awe. Osc. | -1.1171 | KAMA | 718.06 |
 | PPO | -0.0515 | PVO | 7.6609 | TSI | -13.1802 |
-| Ult. Osc. | 58.63 |  |  |  |  |
+| Ult. Osc. | 54.62 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -457024 | CMF | 0.0748 | Acc/Dist | -378455 |
-| MFI | 52.16 | Force Index | 2914 | EOM | 4596.989058 |
-| VPT | -734 | NVI | 1030.53 | VWAP | 717.81 |
+| OBV | -457024 | CMF | 0.0389 | Acc/Dist | -389305 |
+| MFI | 52.16 | Force Index | 2914 | EOM | 27074.025015 |
+| VPT | -734 | NVI | 1030.53 | VWAP | 717.82 |
 
 ### 🕯️ Price Action
 
