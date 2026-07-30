@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-07-30 08:16:02 IST
+**Last updated:** 2026-07-30 08:31:25 IST
 
 ---
 
@@ -1020,12 +1020,12 @@
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
 | SMA 5 | 742.22 | SMA 10 | 742.23 | SMA 20 | 742.46 |
-| SMA 50 | 742.03 | SMA 100 | 741.45 | SMA 200 | 741.38 |
+| SMA 50 | 742.03 | SMA 100 | 741.45 | SMA 200 | 741.39 |
 | EMA 5 | 742.56 | EMA 10 | 742.40 | EMA 20 | 742.36 |
 | EMA 50 | 742.08 | EMA 100 | 741.80 | EMA 200 | 741.96 |
 | WMA 10 | 742.34 | WMA 20 | 742.35 | MACD | 0.0681 |
-| MACD Signal | 0.0488 | MACD Diff | 0.0193 | ADX | 23.31 |
-| ADX+ | 26.35 | ADX- | 27.32 | Aroon Up | 4.00 |
+| MACD Signal | 0.0488 | MACD Diff | 0.0193 | ADX | 23.29 |
+| ADX+ | 26.35 | ADX- | 27.33 | Aroon Up | 4.00 |
 | Aroon Down | 68.00 | Aroon Ind | -64.00 | CCI | 95.80 |
 | DPO | -0.01 | Mass Index | 24.16 | Ichimoku A | 742.21 |
 | Ichimoku B | 742.23 | Ichimoku Base | 742.23 | Ichimoku Conv | 742.20 |
@@ -1046,17 +1046,17 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| RSI 7 | 65.31 | RSI 14 | 58.81 | RSI 21 | 57.03 |
+| RSI 7 | 65.31 | RSI 14 | 58.81 | RSI 21 | 57.02 |
 | Stoch %K | 100.00 | Stoch %D | 71.67 | ROC | 0.1077 |
 | Williams %R | 0.00 | Awe. Osc. | -0.2822 | KAMA | 742.12 |
-| PPO | 0.0092 | PVO | 16.9921 | TSI | 2.2945 |
+| PPO | 0.0092 | PVO | 16.9909 | TSI | 2.2944 |
 | Ult. Osc. | 66.89 |  |  |  |  |
 
 ### 📦 Volume Indicators
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 24634 | CMF | 0.3676 | Acc/Dist | -8193 |
+| OBV | 24548 | CMF | 0.3676 | Acc/Dist | -8311 |
 | MFI | 57.39 | Force Index | 1081 | EOM | 18055.954795 |
 | VPT | 216 | NVI | 983.52 | VWAP | 742.23 |
 
@@ -1113,7 +1113,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 46523 | CMF | 0.1099 | Acc/Dist | -691191 |
+| OBV | 46523 | CMF | 0.1099 | Acc/Dist | -680341 |
 | MFI | 68.67 | Force Index | 277 | EOM | 1205.123123 |
 | VPT | -1566 | NVI | 1022.36 | VWAP | 722.49 |
 
