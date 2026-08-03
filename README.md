@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-03 08:31:33 IST
+**Last updated:** 2026-08-03 08:46:05 IST
 
 ---
 
@@ -87,7 +87,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 94306 | CMF | 0.0739 | Acc/Dist | -12889 |
+| OBV | 94306 | CMF | 0.0739 | Acc/Dist | -12839 |
 | MFI | 15.37 | Force Index | -3714 | EOM | 4285477.200214 |
 | VPT | 97 | NVI | 1030.45 | VWAP | 1901.33 |
 
@@ -258,7 +258,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 507141 | CMF | 0.0016 | Acc/Dist | 694947 |
+| OBV | 507141 | CMF | 0.0016 | Acc/Dist | 696033 |
 | MFI | 16.84 | Force Index | 2352 | EOM | -174963.840866 |
 | VPT | 610 | NVI | 919.25 | VWAP | 1050.32 |
 
@@ -771,9 +771,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -342285 | CMF | 0.0183 | Acc/Dist | 629243 |
+| OBV | -342415 | CMF | 0.0183 | Acc/Dist | 629243 |
 | MFI | 61.33 | Force Index | 1164 | EOM | 12376.927372 |
-| VPT | 1856 | NVI | 948.13 | VWAP | 463.12 |
+| VPT | 1856 | NVI | 948.23 | VWAP | 463.12 |
 
 ### 🕯️ Price Action
 
@@ -828,9 +828,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 2803250 | CMF | -0.5648 | Acc/Dist | -2057461 |
+| OBV | 2803250 | CMF | -0.5648 | Acc/Dist | -2057716 |
 | MFI | 32.93 | Force Index | -476 | EOM | 893.910588 |
-| VPT | -6808 | NVI | 1024.76 | VWAP | 297.46 |
+| VPT | -6810 | NVI | 1025.27 | VWAP | 297.46 |
 
 ### 🕯️ Price Action
 
@@ -885,7 +885,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 2215602 | CMF | -0.0132 | Acc/Dist | 755855 |
+| OBV | 2215602 | CMF | -0.0132 | Acc/Dist | 747552 |
 | MFI | 44.58 | Force Index | -62 | EOM | 0.000000 |
 | VPT | 5309 | NVI | 979.72 | VWAP | 260.14 |
 
