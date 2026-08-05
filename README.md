@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-05 17:15:58 IST
+**Last updated:** 2026-08-05 17:31:21 IST
 
 ---
 
@@ -112,7 +112,7 @@
 | EMA 5 | 2140.28 | EMA 10 | 2141.68 | EMA 20 | 2139.01 |
 | EMA 50 | 2128.29 | EMA 100 | 2118.36 | EMA 200 | 2107.42 |
 | WMA 10 | 2142.91 | WMA 20 | 2142.52 | MACD | 4.8486 |
-| MACD Signal | 6.6976 | MACD Diff | -1.8490 | ADX | 44.04 |
+| MACD Signal | 6.6976 | MACD Diff | -1.8490 | ADX | 44.06 |
 | ADX+ | 12.41 | ADX- | 56.19 | Aroon Up | 84.00 |
 | Aroon Down | 100.00 | Aroon Ind | -16.00 | CCI | -182.90 |
 | DPO | 2.86 | Mass Index | 26.63 | Ichimoku A | 2112.70 |
@@ -144,7 +144,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 176230 | CMF | 0.3885 | Acc/Dist | 29734 |
+| OBV | 176230 | CMF | 0.3885 | Acc/Dist | 29597 |
 | MFI | 59.97 | Force Index | -953 | EOM | -35543071.161049 |
 | VPT | 47 | NVI | 1054.29 | VWAP | 2142.84 |
 
