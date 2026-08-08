@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-08 15:46:14 IST
+**Last updated:** 2026-08-08 16:01:13 IST
 
 ---
 
@@ -885,9 +885,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -1361500 | CMF | 0.1159 | Acc/Dist | -878548 |
+| OBV | -1362068 | CMF | 0.1159 | Acc/Dist | -889556 |
 | MFI | 43.34 | Force Index | -1228 | EOM | 809.761864 |
-| VPT | -17046 | NVI | 1023.65 | VWAP | 249.50 |
+| VPT | -17056 | NVI | 1024.42 | VWAP | 249.50 |
 
 ### 🕯️ Price Action
 
@@ -942,7 +942,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 453164 | CMF | 0.2572 | Acc/Dist | 355157 |
+| OBV | 453960 | CMF | 0.2572 | Acc/Dist | 357012 |
 | MFI | 70.40 | Force Index | -30231 | EOM | -992849.314497 |
 | VPT | 1772 | NVI | 1068.42 | VWAP | 870.60 |
 
@@ -999,9 +999,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -570988 | CMF | -0.0117 | Acc/Dist | -980805 |
+| OBV | -572642 | CMF | -0.0117 | Acc/Dist | -981702 |
 | MFI | 61.57 | Force Index | 1638 | EOM | 1424.730036 |
-| VPT | 5230 | NVI | 922.64 | VWAP | 445.87 |
+| VPT | 5231 | NVI | 922.00 | VWAP | 445.87 |
 
 ### 🕯️ Price Action
 
@@ -1113,9 +1113,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1373944 | CMF | 0.1041 | Acc/Dist | 393613 |
+| OBV | 1378458 | CMF | 0.1041 | Acc/Dist | 393956 |
 | MFI | 56.08 | Force Index | 2543 | EOM | -12118.569710 |
-| VPT | 5074 | NVI | 1023.58 | VWAP | 818.84 |
+| VPT | 5135 | NVI | 1023.20 | VWAP | 818.84 |
 
 ### 🕯️ Price Action
 
@@ -1136,7 +1136,7 @@
 | SMA 5 | 7420.50 | SMA 10 | 7410.65 | SMA 20 | 7413.25 |
 | SMA 50 | 7417.95 | SMA 100 | 7406.04 | SMA 200 | 7425.47 |
 | EMA 5 | 7422.67 | EMA 10 | 7416.58 | EMA 20 | 7414.89 |
-| EMA 50 | 7414.38 | EMA 100 | 7415.00 | EMA 200 | 7421.56 |
+| EMA 50 | 7414.38 | EMA 100 | 7415.00 | EMA 200 | 7421.55 |
 | WMA 10 | 7416.67 | WMA 20 | 7411.90 | MACD | 0.6819 |
 | MACD Signal | -2.4775 | MACD Diff | 3.1594 | ADX | 27.17 |
 | ADX+ | 30.52 | ADX- | 17.73 | Aroon Up | 100.00 |
@@ -1170,9 +1170,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 75011 | CMF | -0.0045 | Acc/Dist | -62360 |
+| OBV | 75527 | CMF | -0.0045 | Acc/Dist | -62430 |
 | MFI | 57.50 | Force Index | 1932 | EOM | 1785714.285714 |
-| VPT | 44 | NVI | 1012.21 | VWAP | 7405.83 |
+| VPT | 45 | NVI | 1012.21 | VWAP | 7405.83 |
 
 ### 🕯️ Price Action
 
