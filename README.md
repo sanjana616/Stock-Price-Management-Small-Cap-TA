@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-09 02:45:59 IST
+**Last updated:** 2026-08-09 03:01:10 IST
 
 ---
 
@@ -429,9 +429,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 84994 | CMF | -0.2909 | Acc/Dist | 201639 |
+| OBV | 88912 | CMF | -0.2909 | Acc/Dist | 200064 |
 | MFI | 35.27 | Force Index | -8957 | EOM | -365682.912436 |
-| VPT | -2828 | NVI | 1136.60 | VWAP | 1361.99 |
+| VPT | -2826 | NVI | 1135.80 | VWAP | 1361.99 |
 
 ### 🕯️ Price Action
 
@@ -1113,9 +1113,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1373944 | CMF | 0.1041 | Acc/Dist | 393613 |
+| OBV | 1378458 | CMF | 0.1041 | Acc/Dist | 393956 |
 | MFI | 56.08 | Force Index | 2543 | EOM | -12118.569710 |
-| VPT | 5074 | NVI | 1023.58 | VWAP | 818.84 |
+| VPT | 5135 | NVI | 1023.20 | VWAP | 818.84 |
 
 ### 🕯️ Price Action
 
