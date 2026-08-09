@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-10 03:46:05 IST
+**Last updated:** 2026-08-10 04:01:29 IST
 
 ---
 
@@ -338,7 +338,7 @@
 | SMA 5 | 3846.26 | SMA 10 | 3842.36 | SMA 20 | 3838.17 |
 | SMA 50 | 3831.72 | SMA 100 | 3830.29 | SMA 200 | 3840.99 |
 | EMA 5 | 3848.16 | EMA 10 | 3843.98 | EMA 20 | 3840.39 |
-| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.35 |
+| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.34 |
 | WMA 10 | 3845.01 | WMA 20 | 3840.59 | MACD | 4.0708 |
 | MACD Signal | 2.5295 | MACD Diff | 1.5413 | ADX | 21.90 |
 | ADX+ | 28.96 | ADX- | 12.31 | Aroon Up | 100.00 |
@@ -372,9 +372,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 298560 | CMF | 0.2644 | Acc/Dist | 197101 |
+| OBV | 296428 | CMF | 0.2644 | Acc/Dist | 199509 |
 | MFI | 63.05 | Force Index | 16891 | EOM | 402813.314571 |
-| VPT | 497 | NVI | 961.79 | VWAP | 3840.12 |
+| VPT | 496 | NVI | 962.02 | VWAP | 3840.12 |
 
 ### 🕯️ Price Action
 
@@ -486,9 +486,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -1256948 | CMF | 0.2309 | Acc/Dist | 1248440 |
+| OBV | -1256948 | CMF | 0.2309 | Acc/Dist | 1246969 |
 | MFI | 59.78 | Force Index | -4496 | EOM | 48.223657 |
-| VPT | 4048 | NVI | 993.99 | VWAP | 752.69 |
+| VPT | 4044 | NVI | 995.25 | VWAP | 752.69 |
 
 ### 🕯️ Price Action
 
@@ -999,9 +999,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -570988 | CMF | -0.0117 | Acc/Dist | -980805 |
+| OBV | -572642 | CMF | -0.0117 | Acc/Dist | -981702 |
 | MFI | 61.57 | Force Index | 1638 | EOM | 1424.730036 |
-| VPT | 5230 | NVI | 922.64 | VWAP | 445.87 |
+| VPT | 5231 | NVI | 922.00 | VWAP | 445.87 |
 
 ### 🕯️ Price Action
 
