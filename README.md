@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-10 03:31:16 IST
+**Last updated:** 2026-08-10 03:46:05 IST
 
 ---
 
@@ -281,7 +281,7 @@
 | SMA 5 | 23103.80 | SMA 10 | 23063.80 | SMA 20 | 22880.75 |
 | SMA 50 | 22662.32 | SMA 100 | 22522.09 | SMA 200 | 22459.25 |
 | EMA 5 | 23024.65 | EMA 10 | 23014.91 | EMA 20 | 22912.84 |
-| EMA 50 | 22726.38 | EMA 100 | 22596.44 | EMA 200 | 22466.12 |
+| EMA 50 | 22726.38 | EMA 100 | 22596.44 | EMA 200 | 22466.10 |
 | WMA 10 | 23079.35 | WMA 20 | 22985.85 | MACD | 134.6283 |
 | MACD Signal | 137.5471 | MACD Diff | -2.9187 | ADX | 44.36 |
 | ADX+ | 33.91 | ADX- | 26.94 | Aroon Up | 84.00 |
@@ -315,9 +315,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 170038 | CMF | 0.3333 | Acc/Dist | 109085 |
+| OBV | 169700 | CMF | 0.3333 | Acc/Dist | 108285 |
 | MFI | 79.01 | Force Index | 44664 | EOM | -1838918918.918919 |
-| VPT | 482 | NVI | 1077.57 | VWAP | 23044.15 |
+| VPT | 481 | NVI | 1077.92 | VWAP | 23044.15 |
 
 ### 🕯️ Price Action
 
@@ -338,7 +338,7 @@
 | SMA 5 | 3846.26 | SMA 10 | 3842.36 | SMA 20 | 3838.17 |
 | SMA 50 | 3831.72 | SMA 100 | 3830.29 | SMA 200 | 3840.99 |
 | EMA 5 | 3848.16 | EMA 10 | 3843.98 | EMA 20 | 3840.39 |
-| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.34 |
+| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.35 |
 | WMA 10 | 3845.01 | WMA 20 | 3840.59 | MACD | 4.0708 |
 | MACD Signal | 2.5295 | MACD Diff | 1.5413 | ADX | 21.90 |
 | ADX+ | 28.96 | ADX- | 12.31 | Aroon Up | 100.00 |
@@ -372,9 +372,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 296428 | CMF | 0.2644 | Acc/Dist | 199509 |
+| OBV | 298560 | CMF | 0.2644 | Acc/Dist | 197101 |
 | MFI | 63.05 | Force Index | 16891 | EOM | 402813.314571 |
-| VPT | 496 | NVI | 962.02 | VWAP | 3840.12 |
+| VPT | 497 | NVI | 961.79 | VWAP | 3840.12 |
 
 ### 🕯️ Price Action
 
@@ -486,9 +486,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -1256948 | CMF | 0.2309 | Acc/Dist | 1246969 |
+| OBV | -1256948 | CMF | 0.2309 | Acc/Dist | 1248440 |
 | MFI | 59.78 | Force Index | -4496 | EOM | 48.223657 |
-| VPT | 4044 | NVI | 995.25 | VWAP | 752.69 |
+| VPT | 4048 | NVI | 993.99 | VWAP | 752.69 |
 
 ### 🕯️ Price Action
 
@@ -999,9 +999,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -572642 | CMF | -0.0117 | Acc/Dist | -981702 |
+| OBV | -570988 | CMF | -0.0117 | Acc/Dist | -980805 |
 | MFI | 61.57 | Force Index | 1638 | EOM | 1424.730036 |
-| VPT | 5231 | NVI | 922.00 | VWAP | 445.87 |
+| VPT | 5230 | NVI | 922.64 | VWAP | 445.87 |
 
 ### 🕯️ Price Action
 
