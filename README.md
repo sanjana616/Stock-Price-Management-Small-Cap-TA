@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-10 08:16:04 IST
+**Last updated:** 2026-08-10 08:31:29 IST
 
 ---
 
@@ -87,9 +87,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 126097 | CMF | 0.4640 | Acc/Dist | -156602 |
+| OBV | 125560 | CMF | 0.4640 | Acc/Dist | -157312 |
 | MFI | 60.87 | Force Index | 1567 | EOM | -inf |
-| VPT | -364 | NVI | 1113.09 | VWAP | 1931.84 |
+| VPT | -365 | NVI | 1113.09 | VWAP | 1931.84 |
 
 ### 🕯️ Price Action
 
@@ -338,7 +338,7 @@
 | SMA 5 | 3846.26 | SMA 10 | 3842.36 | SMA 20 | 3838.17 |
 | SMA 50 | 3831.72 | SMA 100 | 3830.29 | SMA 200 | 3840.99 |
 | EMA 5 | 3848.16 | EMA 10 | 3843.98 | EMA 20 | 3840.39 |
-| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.34 |
+| EMA 50 | 3835.35 | EMA 100 | 3834.96 | EMA 200 | 3838.35 |
 | WMA 10 | 3845.01 | WMA 20 | 3840.59 | MACD | 4.0708 |
 | MACD Signal | 2.5295 | MACD Diff | 1.5413 | ADX | 21.90 |
 | ADX+ | 28.96 | ADX- | 12.31 | Aroon Up | 100.00 |
@@ -372,9 +372,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 296428 | CMF | 0.2644 | Acc/Dist | 199509 |
+| OBV | 298560 | CMF | 0.2644 | Acc/Dist | 197101 |
 | MFI | 63.05 | Force Index | 16891 | EOM | 402813.314571 |
-| VPT | 496 | NVI | 962.02 | VWAP | 3840.12 |
+| VPT | 497 | NVI | 961.79 | VWAP | 3840.12 |
 
 ### 🕯️ Price Action
 
@@ -543,9 +543,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 334202 | CMF | 0.0352 | Acc/Dist | 460191 |
+| OBV | 334381 | CMF | 0.0352 | Acc/Dist | 460006 |
 | MFI | 39.60 | Force Index | -18997 | EOM | -5022311.892559 |
-| VPT | 437 | NVI | 1025.02 | VWAP | 2600.90 |
+| VPT | 437 | NVI | 1024.63 | VWAP | 2600.90 |
 
 ### 🕯️ Price Action
 
@@ -657,9 +657,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 221817 | CMF | 0.2193 | Acc/Dist | 20441 |
+| OBV | 220605 | CMF | 0.2193 | Acc/Dist | 18818 |
 | MFI | 59.55 | Force Index | 494 | EOM | 125304.800836 |
-| VPT | 924 | NVI | 912.16 | VWAP | 1628.68 |
+| VPT | 924 | NVI | 913.27 | VWAP | 1628.68 |
 
 ### 🕯️ Price Action
 
@@ -885,9 +885,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -1356876 | CMF | 0.1183 | Acc/Dist | -873924 |
+| OBV | -1357444 | CMF | 0.1183 | Acc/Dist | -884932 |
 | MFI | 43.54 | Force Index | -601 | EOM | 732.989559 |
-| VPT | -17029 | NVI | 1023.65 | VWAP | 249.50 |
+| VPT | -17039 | NVI | 1024.42 | VWAP | 249.50 |
 
 ### 🕯️ Price Action
 
@@ -1056,9 +1056,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 5910871 | CMF | -0.1112 | Acc/Dist | 2581976 |
+| OBV | 5906673 | CMF | -0.1112 | Acc/Dist | 2573485 |
 | MFI | 74.78 | Force Index | 2176 | EOM | 3590.359530 |
-| VPT | 18831 | NVI | 957.40 | VWAP | 876.90 |
+| VPT | 18838 | NVI | 956.86 | VWAP | 876.90 |
 
 ### 🕯️ Price Action
 
@@ -1136,7 +1136,7 @@
 | SMA 5 | 7420.50 | SMA 10 | 7410.65 | SMA 20 | 7413.25 |
 | SMA 50 | 7417.95 | SMA 100 | 7406.04 | SMA 200 | 7425.47 |
 | EMA 5 | 7422.67 | EMA 10 | 7416.58 | EMA 20 | 7414.89 |
-| EMA 50 | 7414.38 | EMA 100 | 7415.00 | EMA 200 | 7421.55 |
+| EMA 50 | 7414.38 | EMA 100 | 7415.00 | EMA 200 | 7421.56 |
 | WMA 10 | 7416.67 | WMA 20 | 7411.90 | MACD | 0.6819 |
 | MACD Signal | -2.4775 | MACD Diff | 3.1594 | ADX | 27.17 |
 | ADX+ | 30.52 | ADX- | 17.73 | Aroon Up | 100.00 |
@@ -1170,7 +1170,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 75625 | CMF | -0.0092 | Acc/Dist | -62528 |
+| OBV | 75109 | CMF | -0.0092 | Acc/Dist | -62458 |
 | MFI | 57.83 | Force Index | 2072 | EOM | 1491596.638655 |
 | VPT | 45 | NVI | 1012.21 | VWAP | 7406.06 |
 
