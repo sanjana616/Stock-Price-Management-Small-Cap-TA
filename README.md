@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-14 08:31:20 IST
+**Last updated:** 2026-08-14 08:46:10 IST
 
 ---
 
@@ -281,7 +281,7 @@
 | SMA 5 | 23195.60 | SMA 10 | 23195.10 | SMA 20 | 23196.85 |
 | SMA 50 | 23206.58 | SMA 100 | 23179.77 | SMA 200 | 23010.74 |
 | EMA 5 | 23192.58 | EMA 10 | 23194.11 | EMA 20 | 23197.30 |
-| EMA 50 | 23193.17 | EMA 100 | 23149.83 | EMA 200 | 23046.76 |
+| EMA 50 | 23193.17 | EMA 100 | 23149.84 | EMA 200 | 23046.81 |
 | WMA 10 | 23193.45 | WMA 20 | 23194.45 | MACD | -3.5421 |
 | MACD Signal | -2.9959 | MACD Diff | -0.5462 | ADX | 16.97 |
 | ADX+ | 11.17 | ADX- | 32.60 | Aroon Up | 4.00 |
@@ -315,9 +315,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 57166 | CMF | -0.1566 | Acc/Dist | 27027 |
+| OBV | 57166 | CMF | -0.1566 | Acc/Dist | 26698 |
 | MFI | 54.59 | Force Index | 1438 | EOM | -864043583.535109 |
-| VPT | 207 | NVI | 1054.57 | VWAP | 23192.36 |
+| VPT | 206 | NVI | 1054.57 | VWAP | 23192.36 |
 
 ### 🕯️ Price Action
 
@@ -600,7 +600,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 161534 | CMF | 0.0823 | Acc/Dist | 42689 |
+| OBV | 161534 | CMF | 0.0823 | Acc/Dist | 35065 |
 | MFI | 53.41 | Force Index | -1388 | EOM | -9059.148383 |
 | VPT | 1872 | NVI | 998.51 | VWAP | 952.49 |
 
@@ -885,7 +885,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -983203 | CMF | 0.0399 | Acc/Dist | -671881 |
+| OBV | -983203 | CMF | 0.0399 | Acc/Dist | -672197 |
 | MFI | 72.58 | Force Index | 3278 | EOM | 0.000000 |
 | VPT | -12736 | NVI | 1002.37 | VWAP | 247.90 |
 
@@ -1170,7 +1170,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 46263 | CMF | 0.0836 | Acc/Dist | -41584 |
+| OBV | 46263 | CMF | 0.0836 | Acc/Dist | -41874 |
 | MFI | 58.70 | Force Index | 10767 | EOM | 113582.018173 |
 | VPT | 172 | NVI | 1042.70 | VWAP | 7169.73 |
 
