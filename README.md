@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-14 21:16:00 IST
+**Last updated:** 2026-08-14 21:31:22 IST
 
 ---
 
