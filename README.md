@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-14 06:46:05 IST
+**Last updated:** 2026-08-14 07:01:10 IST
 
 ---
 
@@ -1170,7 +1170,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 46263 | CMF | 0.0836 | Acc/Dist | -41874 |
+| OBV | 46263 | CMF | 0.0836 | Acc/Dist | -41584 |
 | MFI | 58.70 | Force Index | 10767 | EOM | 113582.018173 |
 | VPT | 172 | NVI | 1042.70 | VWAP | 7169.73 |
 
