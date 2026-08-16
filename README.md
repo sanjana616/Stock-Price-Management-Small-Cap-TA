@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-16 23:31:20 IST
+**Last updated:** 2026-08-16 23:45:55 IST
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Symbol | Datetime | Close | Volume | RSI | EMA20 | MACD | VWAP | Signal |
 |--------|----------|------:|-------:|----:|------:|-----:|-----:|:------:|
-| Nifty 50 | 2026-08-14 15:29:00 | 24366.00 | 0 | 58.47 | 24360.69 | -2.7990 | — | 🟢 BUY |
+| Nifty 50 | 2026-08-14 15:29:00 | 24366.00 | 0 | 58.52 | 24360.68 | -2.7971 | — | 🟢 BUY |
 | BankNifty | 2026-08-14 15:29:00 | 57491.10 | 0 | 56.36 | 57476.07 | -8.8233 | — | 🟢 BUY |
 | Sensex | 2026-08-14 15:29:00 | 78009.25 | 0 | 52.79 | 78003.84 | 20.0046 | — | 🟡 HOLD |
 | SmallcapNifty | 2026-08-14 15:29:00 | 18260.65 | 0 | 20.68 | 18267.18 | -6.4215 | — | 🟡 HOLD |
@@ -657,7 +657,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 76215 | CMF | 0.4230 | Acc/Dist | 26699 |
+| OBV | 76405 | CMF | 0.4230 | Acc/Dist | 26613 |
 | MFI | 75.55 | Force Index | 692 | EOM | -5742.799678 |
 | VPT | -380 | NVI | 1020.59 | VWAP | 1599.48 |
 
@@ -714,7 +714,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 70844 | CMF | -0.1676 | Acc/Dist | 48078 |
+| OBV | 70844 | CMF | -0.1676 | Acc/Dist | 48124 |
 | MFI | 33.41 | Force Index | -92 | EOM | -2841052.965206 |
 | VPT | -117 | NVI | 1116.20 | VWAP | 1671.00 |
 
@@ -828,7 +828,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 56507 | CMF | -0.0144 | Acc/Dist | 692271 |
+| OBV | 56507 | CMF | -0.0144 | Acc/Dist | 691351 |
 | MFI | 26.10 | Force Index | -2353 | EOM | 787.067676 |
 | VPT | 1217 | NVI | 1003.56 | VWAP | 286.89 |
 
@@ -942,7 +942,7 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | -89979 | CMF | 0.3072 | Acc/Dist | -61612 |
+| OBV | -89347 | CMF | 0.3072 | Acc/Dist | -61296 |
 | MFI | 45.90 | Force Index | 265 | EOM | -522643.615047 |
 | VPT | -1454 | NVI | 1036.84 | VWAP | 824.37 |
 
