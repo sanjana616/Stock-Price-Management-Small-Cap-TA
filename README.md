@@ -1,6 +1,6 @@
 # 📊 Small Cap Technical Indicators
 
-**Last updated:** 2026-08-19 15:31:38 IST
+**Last updated:** 2026-08-19 15:34:54 IST
 
 ---
 
@@ -10,7 +10,7 @@
 |--------|----------|------:|-------:|----:|------:|-----:|-----:|:------:|
 | Nifty 50 | 2026-08-19 15:29:00 | 24078.30 | 0 | 84.17 | 24051.15 | 2.4415 | — | 🟡 HOLD |
 | BankNifty | 2026-08-19 15:29:00 | 57239.75 | 0 | 78.46 | 57171.06 | -0.6458 | — | 🟡 HOLD |
-| Sensex | 2026-08-19 15:15:00 | 76902.38 | 0 | 49.40 | 76904.01 | -1.2968 | — | 🟡 HOLD |
+| Sensex | 2026-08-19 15:18:00 | 76902.54 | 0 | 49.45 | 76903.63 | -1.0931 | — | 🟡 HOLD |
 | SmallcapNifty | 2026-08-19 15:29:00 | 18220.70 | 0 | 82.16 | 18191.28 | 0.2733 | — | 🟢 BUY |
 
 ---
@@ -87,9 +87,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 14101 | CMF | 0.4175 | Acc/Dist | -62134 |
+| OBV | 16437 | CMF | 0.4175 | Acc/Dist | -61713 |
 | MFI | 53.16 | Force Index | -181 | EOM | -211357.408975 |
-| VPT | -56 | NVI | 958.72 | VWAP | 1886.63 |
+| VPT | -50 | NVI | 955.87 | VWAP | 1886.63 |
 
 ### 🕯️ Price Action
 
@@ -657,9 +657,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 67556 | CMF | 0.1400 | Acc/Dist | 11971 |
+| OBV | 50280 | CMF | 0.1400 | Acc/Dist | -4387 |
 | MFI | 65.31 | Force Index | 531 | EOM | 426997.838730 |
-| VPT | 1122 | NVI | 939.12 | VWAP | 1557.71 |
+| VPT | 1086 | NVI | 929.38 | VWAP | 1557.71 |
 
 ### 🕯️ Price Action
 
@@ -771,9 +771,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 660146 | CMF | 0.2311 | Acc/Dist | 1029552 |
+| OBV | 676506 | CMF | 0.2311 | Acc/Dist | 1045472 |
 | MFI | 49.47 | Force Index | -49 | EOM | 805.807667 |
-| VPT | 2180 | NVI | 984.46 | VWAP | 493.43 |
+| VPT | 2284 | NVI | 975.82 | VWAP | 493.43 |
 
 ### 🕯️ Price Action
 
@@ -885,9 +885,9 @@
 
 | Indicator | Value | Indicator | Value | Indicator | Value |
 |-----------|------:|-----------|------:|-----------|------:|
-| OBV | 1073931 | CMF | 0.0264 | Acc/Dist | 206811 |
+| OBV | 1091952 | CMF | 0.0264 | Acc/Dist | 225385 |
 | MFI | 69.49 | Force Index | 302 | EOM | -3895.027796 |
-| VPT | 990 | NVI | 977.88 | VWAP | 245.94 |
+| VPT | 1072 | NVI | 975.72 | VWAP | 245.94 |
 
 ### 🕯️ Price Action
 
